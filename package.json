@@ -1,0 +1,17 @@
+{
+  "name": "vetplusv2",
+  "version": "1.0.0",
+  "description": "test de vetplus pwa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "raul",
+  "license": "ISC",
+  "dependencies": {
+    "workbox-cacheable-response": "^5.1.4",
+    "workbox-expiration": "^5.1.4",
+    "workbox-routing": "^5.1.4",
+    "workbox-strategies": "^5.1.4"
+  }
+}
